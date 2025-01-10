@@ -66,15 +66,17 @@ Response:
 }
 ```
 
-# Screenshots
-Background Job:
-![Task 1 Screenshot]('./screenshot/task1.png')
+# Screenshots:
 
-API /stats
-![Task 2 Screenshot]('./screenshot/task2 stats.png')
+### Background Job
+![Background Job Screenshot](./Screenshot/task1.png)
 
-API /deviation
-![Task 2 Screenshot]('./screenshot/task3 deviation.png')
+### API `/stats`
+![Stats API Screenshot](./Screenshot/task2 stats.png)
+
+### API `/deviation`
+![Deviation API Screenshot](./Screenshot/task3 deviation.png)
+
 
 
 
