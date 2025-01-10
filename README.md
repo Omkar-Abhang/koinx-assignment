@@ -72,10 +72,10 @@ Response:
 ![Background Job Screenshot](./Screenshot/task1.png)
 
 ### API `/stats`
-![Stats API Screenshot](./Screenshot/task2 stats.png)
+![Stats API Screenshot](./Screenshot/task2stats.png)
 
 ### API `/deviation`
-![Deviation API Screenshot](./Screenshot/task3 deviation.png)
+![Deviation API Screenshot](./Screenshot/task3deviation.png)
 
 
 
